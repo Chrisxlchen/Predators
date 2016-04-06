@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="vrDemo.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\UnityChan\Scripts\IdleChanger.cs">
+    <Files>
+      <File FileName="Assets\UnityChan\Scripts\IdleChanger.cs" Line="27" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
