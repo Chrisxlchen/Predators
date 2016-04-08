@@ -123,8 +123,6 @@
     <None Include="Assets\Cardboard\Resources\UnlitTexture.shader" />
     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
-    <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
-    <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_akarami_blend.shader" />
     <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye.shader" />

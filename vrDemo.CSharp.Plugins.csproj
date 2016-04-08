@@ -70,11 +70,6 @@
     <Compile Include="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
     <Compile Include="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs" />
-    <Compile Include="Assets\Standard Assets\Characters\RollerBall\Scripts\Ball.cs" />
-    <Compile Include="Assets\Standard Assets\Characters\RollerBall\Scripts\BallUserControl.cs" />
-    <Compile Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs" />
-    <Compile Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" />
-    <Compile Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" />
     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
@@ -118,8 +113,6 @@
     <None Include="Assets\Cardboard\Resources\UnlitTexture.shader" />
     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
-    <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
-    <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_akarami_blend.shader" />
     <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
